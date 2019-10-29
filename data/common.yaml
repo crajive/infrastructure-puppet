@@ -68,7 +68,9 @@ asf999::create_user::keycontent: |
 
   #dfoulks
   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDr8lZ/ACqhAQjZIsZJy/WswWW4hmlwEG7kr3t4+NCMj/8CI4AaLTTZJpOVW5u52gvJnEsMnp2ZLqZhaeWSa/m6SnNlzKqqe16DXP7ngq56qD8KjTnxnb5HNrqYiJJhLXpmd/fm89yOq8k4Tv4bOQzL0bgCA6xBxWFuZ8TPaUCNcXxidLqe2W8gQx4AffhFjrPdQPKnhVQ8pcC5dlpi17cBKHCTSdVM0wT7pLGMULTVbD25yHPtCI/jp47AGKE9IMYYxDlFVnePtWU19lRqjn4gjsv3dVYUhCibXyrz6RAxCZwXhK+5Et4uPcdttMO56wyxXC3lijTETvQX2rIkc4WX warwalrux@warwalrux-XPS-15-9570
-
+  
+  #rajive
+  from="98.137.35.174,68.142.239.165,67.195.81.145" ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqLKDepzA6QBrmZo04ijXO3E9tVUL5UYXdQOV53IqHcHvfwWhw9u3//o3coMJJPOOUl1/WetQ3eQdLDz8/2Zl7phP6/1Wvs54uB8QVPX0tgKxReYZB0V+0jUbrG2P6L1uII1bQzibIozjWdnRLzf1Kfk6Njy6CHXBJ8SCv8nkiM4SEw0Y93BRJP+TaHL6Hf7EWqBzxly9VuD7d6VS1vDY0cHd2uLm8V3klowCB4GX1XmPyP430ftwdqwr0QffADR0AGaGBQm93fGKICUe2zzoCfU7NZgMfSLVNW8M02CHb2XqG1+MAk0S/AWa/WB7HR7j+Ik7IMbt5LdXuYL7H40jcw== rajive@ieee.org,@asf userkey@
 
 asf999::create_user::sshdkeysdir: '/etc/ssh/ssh_keys'
 asf999::create_user::user: 'asf999'
